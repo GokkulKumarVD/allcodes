@@ -1,0 +1,14 @@
+{% extends "C:/xampp/htdocs/itcall/itcall/templates/base.html" %}
+
+    {% block page_title %}
+    Challenges
+    {% endblock  %}
+    
+
+    {% block content %}
+    <ul>
+      {% for month in months %}
+          <li><a href= {% url 'mm' month %}> {{month}} </a></li>
+      {% endfor %}
+    </ul>
+    {% endblock  %}

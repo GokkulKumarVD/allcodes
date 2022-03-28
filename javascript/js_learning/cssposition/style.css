@@ -1,0 +1,48 @@
+/* display block elements */
+/* full width by default.
+each starts with a new line
+width and height can be set
+div, p, h, ul, footer */
+
+/* inline block elements */ 
+/* it is default */
+/* side by side
+take space as much as needed
+width and height cannot be set.
+a, span, img, button */
+
+
+/* float left */
+/* it is similar to inline but we can set left or right */
+
+
+/* if you use float in the same content, then ensure to clear it with 
+:after tag in css if you want to write it in next line. */
+
+
+/* 
+-webkit-column-count:3;
+column-count:3 */
+/* these lines will bring paragraph next to each other and not required to use float. */
+
+
+
+/* position relative is used to  change placement of an element only within it's container*/ 
+/* position absolute is used to change placement of an email within the complete browser */
+/* position fixed is used to keep it frozen */
+/* especially when using bottom top left right */
+
+
+
+p, a{
+    padding: 50px;
+    border: 10px solid greenyellow;
+    width: 50%;
+    display: block;
+}
+
+.abs{
+    /* position: absolute; */
+    max-height: 100px;
+    overflow: hidden;
+}

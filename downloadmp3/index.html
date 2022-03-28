@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body onload="fetchAsync()">
+    <script src="app.js"></script>
+    <script>
+
+        // function fetchAsync() {
+        //     console.log('working')
+        //     url = "https://openapi.airtel.in/gateway/airtel-xchange/ironman-data-transfer/download/recordingFile?token=gLTIM5uvaO6TqDKclWycfZV46LlvSdD6X6z7cu0MV425doLzbixtTaeiztaSuLSpTmKbiseWNo44bus6UbFOug=="
+        //     let response = await fetch(url);
+        //     let data = await response.json();
+        //     return data;
+        // }
+
+        function afterPageLoad() {
+            alert('hello');
+        }
+
+        window.onload = function afterPageLoad();
+    </script>
+</body>
+
+</html>

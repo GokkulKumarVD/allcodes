@@ -1,0 +1,27 @@
+body{
+    background-color: gainsboro;
+}
+
+
+.container{
+    background-color: white;
+}
+
+.container::after{
+    content: "";
+    display: block;
+    clear: left;
+}
+
+
+.s1, .s2{
+    width: 26%;
+    float: left;
+    background-color: white;
+    margin: 10px;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+
+

@@ -1,0 +1,19 @@
+.waves-input-wrapper .waves-button-input {
+  position: relative;
+  top: 20;
+  left: 0;
+  z-index: 1;
+  color: white;
+}
+
+.card .card-content {
+  padding: 2px !important;
+  border-radius: 0 0 2px 2px;
+}
+.waves-input-wrapper .waves-button-input {
+  position: relative;
+  top: 10 !important;
+  left: 0;
+  z-index: 1;
+  color: white;
+}

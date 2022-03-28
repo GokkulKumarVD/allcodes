@@ -1,0 +1,138 @@
+.nav-wrapper {
+  background-color: rgb(255, 136, 0) !important;
+  height: 12px;
+}
+.card .card-content {
+  padding: 5px !important;
+  border-radius: 0 0 2px 2px;
+}
+
+.set_mid {
+  padding: 6px !important;
+  margin-left: -10px !important;
+}
+
+nav,
+nav .nav-wrapper i,
+nav a.sidenav-trigger,
+nav a.sidenav-trigger i {
+  height: 54px !important;
+}
+
+html {
+  line-height: 1 !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-weight: normal;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+input:not([type]),
+input[type="text"]:not(.browser-default),
+input[type="password"]:not(.browser-default),
+input[type="email"]:not(.browser-default),
+input[type="url"]:not(.browser-default),
+input[type="time"]:not(.browser-default),
+input[type="date"]:not(.browser-default),
+input[type="datetime"]:not(.browser-default),
+input[type="datetime-local"]:not(.browser-default),
+input[type="tel"]:not(.browser-default),
+input[type="number"]:not(.browser-default),
+input[type="search"]:not(.browser-default),
+textarea.materialize-textarea {
+  background-color: #635b5b21 !important;
+  border: 0 !important;
+  border-top: 1px solid #9e9e9e !important;
+  border-left: 1px solid #9e9e9e !important;
+  border-radius: 4 !important;
+  outline: black !important;
+  height: 2rem !important;
+  width: 100% !important;
+  font-size: 16px !important;
+  margin: 10px 0 8px 0 !important;
+  padding: 0 !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  -webkit-box-sizing: content-box !important;
+  box-sizing: content-box !important;
+}
+
+sup {
+  color: red !important;
+}
+
+.card .card-action {
+  background-color: rgb(231, 228, 228) !important;
+  border-top: 1px solid rgba(160, 160, 160, 0.2) !important;
+  position: relative !important;
+  padding: 26px 24px !important;
+}
+
+.card
+  .card-action
+  a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
+  color: #ffab40;
+  margin-right: 24px;
+  float: right !important;
+}
+
+.spc {
+  margin: 24px;
+}
+
+.save {
+  border-radius: 15px !important;
+  background-color: rgb(255, 136, 0) !important;
+  color: white;
+  font-weight: bold;
+}
+
+.cancel {
+  border-radius: 15px !important;
+  background-color: white !important;
+  color: black;
+  font-weight: bold;
+}
+
+nav,
+nav .nav-wrapper i,
+nav a.sidenav-trigger,
+nav a.sidenav-trigger i {
+  height: 64px !important;
+}
+
+.imgf {
+  border-radius: 50% !important;
+  margin-top: 16px !important;
+  float: right !important;
+  margin-right: 12px;
+}
+
+select {
+  background-color: rgb(214 208 208 / 40%) !important;
+  width: 100% !important;
+  padding: 5px !important;
+  border: 1px solid #f2f2f2 !important;
+  border-radius: 5px !important;
+  border: 0 !important;
+  border-top: 1px solid #9e9e9e !important;
+  border-left: 1px solid #9e9e9e !important;
+  height: 2rem !important;
+  margin-top: 10px;
+}
+
+.containerdash {
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.containerdash {
+  margin: 0 auto;
+  margin-left: 50px !important;
+}
+
+

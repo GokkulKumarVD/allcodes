@@ -1,0 +1,147 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+
+/* flex grow */
+
+/* .wrapper{
+    width: 100%;
+    margin: 0 auto;
+    max-width: 960px;
+}
+
+.flex-container{
+    display: flex;
+}
+
+
+.box{
+    min-width: 200px;
+    height: 100px;
+    flex-grow: 1;
+}
+
+.one{
+    background-color: aqua;
+    flex-grow: 1;
+
+}
+
+.two{
+    background-color: bisque;
+    flex-grow: 2;
+}
+
+.three{
+    background-color: blue;
+    flex-grow: 3;
+} */
+
+/* ------------------------------------ */
+/* flex shrink */
+
+/* .wrapper{
+    width: 100%;
+    margin: 0 auto;
+    max-width: 960px;
+}
+
+.flex-container{
+    display: flex;
+}
+
+
+.box{
+    min-width: 200px;
+    height: 100px;
+}
+
+.one{
+    background-color: aqua;
+    flex-shrink: 2;
+
+}
+
+.two{
+    background-color: bisque;
+    flex-shrink: 3;
+}
+
+.three{
+    background-color: blue;
+    flex-shrink: 6;
+} */
+
+/* flex wrap */
+/* .wrapper{
+    width: 100%;
+    margin: 0 auto;
+    max-width: 960px;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.box{
+    min-width: 200px;
+    height: 100px;
+    flex-grow: 1;
+}
+
+.one{
+    background-color: aqua;
+
+}
+
+.two{
+    background-color: bisque;
+}
+
+.three{
+    background-color: blue;
+} */
+
+
+/* ----------------------- */
+/* flex basis  acts as  min width*/
+/* .wrapper{
+    width: 100%;
+    margin: 0 auto;
+    max-width: 960px;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.box{
+    flex-basis: 200px;
+    height: 100px;
+    flex-grow: 1;
+}
+
+.one{
+    background-color: aqua;
+
+}
+
+.two{
+    background-color: bisque;
+}
+
+.three{
+    background-color: blue;
+} */
+
+
+/* ------------------------ */
+/*  */
+
+

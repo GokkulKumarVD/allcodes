@@ -1,0 +1,95 @@
+
+Gokkul Kumar VD
+Automation Analyst
+
+Bengaluru, India, KA 560002
+Phone: 973 946 8362
+E-Mail: gokkulkumaradobe@gmail.com
+
+Professional Summary
+
+Enthusiastic Process automation analyst eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of process and requirement and training in necessary skills. Motivated to learn, grow and excel in automation field.
+
+Skills
+
+SQL  
+
+VBA  
+
+Python  
+
+Pandas  
+
+Excel  
+
+PHP  
+
+HTML/CSS  
+
+Statistics / Probability  
+
+RPA (UI Path)  
+
+Plotly  
+
+Matplotlib  
+
+Numpy  
+
+OpenCV  
+
+Work History
+
+January 2018 to Current
+Swiggy Bengaluru, Karnataka
+Process Automation Analyst    
+
+Maintained, debugged and optimized automation programs.
+Performed gap analysis procedures and detailed data reviews to optimize implementation.
+Analyzed customer care agents productivity.
+Followed up with external contractors, project owners and other stakeholders to gather information and resolve issues.
+Used python and SQL to automate reports and create live dashboards.
+
+August 2016 to January 2018
+ANZ Bengaluru, Karnataka
+Analyst    
+
+Reconciled accounts, managed audits and updated financial records with remarkable accuracy.
+Managed complex problem-solving for upper management in order to complete projects on-time and within budget.
+Analyzed figures, postings and documents to maintain accounting program accuracy.
+Compiled budget figures by reviewing past budgets, evaluating estimated income and assessing expenses.
+Automate the repeated task using VBA
+
+January 2016 to June 2016
+OLA Bengaluru, Karnataka
+CSR    
+
+Created and presented real-time reports on current market conditions to upper management.
+Monitored user behavior and lead generation.
+Conducted trend forecasting and analysis.
+Informed supervisors and company leaders on markets and regional sales needs to best meet customer needs and maximize revenue.
+
+September 2011 to November 2015
+[24]7.ai Bengaluru, Karnataka
+Social Interactive Media Specialist    
+
+Utilized content management system to post images and videos of company products online.
+Interacted with public relations department to identify positive or negative customer feedback regarding media content.
+Analyzed and reported social media and online marketing campaign results.
+Troubleshoot Adobe software related issues.
+
+August 2010 to August 2011
+HAL Bengaluru, Karnataka
+HAL Trainee    
+
+Consulted with network engineering staff to evaluate hardware and software requirements for new system development.
+Worked closely with Hardware engineers to execute and improve test coverage.
+Researched complex technical issues and provided resolutions.
+
+Education
+
+SKBP 
+Diploma in Computer Science Computer Science 
+
+Himalayan University 
+Bachelor of Computer Applications Computer Science 

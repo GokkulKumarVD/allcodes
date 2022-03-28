@@ -1,0 +1,33 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form>
+        <button id="python">click here</button>
+    </form>
+    <script src="app.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#python").click(function (e) {
+                e.preventDefault();
+                console.log("working");
+                $.ajax({
+                    type: "POST",
+                    url: "C:/Users/vd.gokkulkumar/PycharmProjects/marvex_data_play/lakshyav2/testingserverfiles.py"
+                    // data: { param: text }
+                }).done(console.log("working"))
+            });
+        });
+
+
+    </script>
+</body>
+
+</html>

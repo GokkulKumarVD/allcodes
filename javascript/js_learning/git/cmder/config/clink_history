@@ -1,0 +1,229 @@
+|CTAG_1622597860_404887046_3820_0
+git --version
+git config --global user.name iamgokkul
+got config global user.email gokkulkumaradobe@gmail.com
+git config --global user.email gokkulkumaradobe@gmail.com
+|it config user.name
+git user.name
+git config user.name
+got config user.email
+git config user.email
+|d ..
+|mder
+cd cmder
+|s
+cmder
+|d ..
+mkdir test
+|ouch index.html
+|s
+rm index.html
+rmdir test
+|s
+mkdir git-one
+|s
+mkdir git-two
+|d git-one
+|it inti
+|it init
+touch index.html
+|d ..
+|d ..
+cd git
+|d git-one
+|s
+|it status
+|it add index.html
+|it status
+git commit
+|s
+|d ..
+|s
+cd git-one
+ls
+|it status
+git rm --cahced
+|it status
+git rm --cached index.html
+|it status
+git commit -m "Created just HTML tags"
+git add index.html
+git commit -m "Just created HTML tags"
+|it status
+add note
+|it add note
+git commit -m "git commands"
+|it log
+|it log --oneline
+|it status
+|it logs
+|it log
+|it status
+|it add style.css
+git commit -m "adding styles"
+|it log
+|it status
+git add style.css
+git commit -m "adding css"
+|it log
+|it status
+git add note
+git commit -m "updated note"
+|it log
+|it log --oneline
+|it revert bdb055a
+|it log
+git log -oneline
+|it log
+|it log --oneline
+|it checkout 904cbf1
+git reset
+|it log
+|it log --oneline
+git checkout 904cbf1
+git checkout de50e51
+|it log --oneline
+|it revert bdb055a
+git rm de50e51
+git reset HEAD
+|it log
+|it log --oneline
+git reset 70ba28a
+|it log --oneline
+git revert 904cbf1
+-m
+|it log --oneline
+git revert bdb055a
+|it status
+|it status
+git checkout msater
+|it checkout master
+|it add .
+|it status
+git commit -m "adding html again"
+|it log
+|it log --oneline
+git push https://github.com/Gokkul07/learning.git master
+|it clone https://github.com/Gokkul07/learning2.git
+|it status
+|it add .
+cd ..
+git clone https://github.com/Gokkul07/learning2.git
+cd learning2
+|it status
+|it add .
+git clone -v
+git remote -v
+git purh origin
+|it push origin master
+|it push origin master
+|it checkout master
+|it status
+git commit -m "first index file"
+git push origin master
+git checkout -b branch
+|it log --online
+|it log --oneline
+cd C:\xampp\htdocs\javascript\js_learning\php_learning\index.php
+cd C:\xampp\htdocs\javascript\js_learning\php_learning
+git inti
+|it init
+|it status
+|it add .
+|it status
+git commit -m "first stage"
+|it log --online
+|it log --oneline
+cd C:\xampp\htdocs\javascript\js_learning\materialize
+|it init
+|it log
+|it status
+|it add .
+git commit -m "adding materialize cdn link"
+git logs
+|it log
+|it status
+|it add .
+git commit -m "adding flow text - it will change text size as per browser / 2rem = 2 X html font size"
+git log
+|it add .
+git commit -m "adding container class - it will make width center, not text center"
+|it add .
+git commit -m "hiding text based on browser responsive"
+|it status
+|it log --oneline
+|it add .
+git commit -m "background and text color"
+|it add .
+git commit -m "text align"
+|it log --oneline
+|it status
+|it add .
+git commit -m "adding buttons"
+|it log --oneline
+|it add .
+git commit -m "adding icons on buttons"
+|it log --oneline
+git checkout e4cf468
+|it log --oneline
+git checkout revert
+|it checkout 4775fb6
+|it log --online
+|it log --oneline
+git revert 340df8a
+|it log --oneline
+|it checkout 4775fb6
+git checkout master
+git checkout 4775fb6
+git rm
+git rm 4775fb6
+|it status
+git revert --abort
+|it log --oneline
+|it add .
+git commit -m "expand columns based on screensize"
+|it add .
+git commit -m "adding shadows"
+|it add .
+git commit -m "responsive nav bar for mobile / desktop"
+|it add .
+|it add .
+git commit -m "added notification and badge to it"
+|it status
+|it log --oneline
+git rm 1bc8abe
+git checkout 1bc8abe
+|it log --oneline
+git reset --hard HEAD
+git revert 1bc8abe
+|it log --oneline
+git reset c737aa8
+|it log --online
+|it log --oneline
+|it add .
+git commit -m "adding cards and notification"
+|it log --oneline
+|it add .
+git commit -m "adding collections"
+|it add .
+git commit -m "adding modal"
+|it log --oneline
+|d C:\xampp\htdocs\javascript\js_learning\materialize\diolet
+|it init
+cd C:\xampp\htdocs\javascript\js_learning\materialize\diolet
+git init
+|it status
+|it add .
+git commit -m "3d text"
+|it commit -m "3d text and parallax in the middle"
+|it add .
+git commit -m "3d text and parallax in the middle"
+git status
+|it add .
+git commit -m "first design"
+|it add .
+git commit -m "second design"
+git add .
+git commit -m "3d diolet text design"
+git log --online
+git log --oneline

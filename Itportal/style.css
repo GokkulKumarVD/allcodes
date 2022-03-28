@@ -1,0 +1,56 @@
+.brand-logo{
+    margin-left: 20px;
+}
+
+h5 {
+    font-size: 4rem;
+    line-height: 110%;
+    margin: 1.0933333333rem 0 .656rem 0;
+    color: gray;
+}
+
+.laptopid_table{
+    display: none;
+} 
+
+.assignedby_table{
+    display: none;
+}
+
+.statshide{
+    display: none;
+}
+
+.hidestats{
+    display: none;
+}
+
+.adding{
+    display: none;
+}
+
+
+.statics{
+    display: none;
+}
+
+.empid{
+    margin-left: 45px !important;
+    width: 95% !important;
+}
+
+.modi {
+    margin-top: -5px !important;
+    height: 5rem !important;
+    width: 97% !important;
+    margin-left: 35px !important;
+}
+
+
+.modiicon{
+    top: 1.4rem !important;
+}
+
+.parallaxown{
+    height: 250px !important;
+}

@@ -1,0 +1,6 @@
+|CTAG_1622597860_404887046_3820_0
+git --version
+git config --global user.name iamgokkul
+got config global user.email gokkulkumaradobe@gmail.com
+git config --global user.email gokkulkumaradobe@gmail.com
+git config user.name
